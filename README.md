@@ -1,5 +1,9 @@
 # MLX CTC
 
+[![License](https://img.shields.io/github/license/djphoenix/mlx-ctc)](https://github.com/djphoenix/mlx-ctc/blob/main/LICENSE)
+[![PyPI - Version](https://img.shields.io/pypi/v/mlx-ctc)](https://pypi.org/project/mlx-ctc/)
+![PyPI - Status](https://img.shields.io/pypi/status/mlx-ctc)
+
 C++ and Metal extensions for [MLX](https://github.com/ml-explore/mlx) CTC Loss
 
 ## Library status
