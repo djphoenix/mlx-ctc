@@ -1,3 +1,5 @@
+# Copyright © 2024 Yury Popov (@djphoenix).
+
 import mlx.core as mx
 
 def ctc_loss(
